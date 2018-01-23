@@ -1,4 +1,4 @@
-# Core-GitHub-Braching
+# Core-GitHub-Branching
 
 Learning about working with teams with a shared GitHub project.
 Use branches to manage a coherent and organized workflow.

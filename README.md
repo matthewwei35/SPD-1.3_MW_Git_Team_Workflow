@@ -1,7 +1,6 @@
-# Core-GitHub-Branching
+# Core: Git Branching Lab
 
-Learning about working with teams with a shared GitHub project.
+A lab activity to learn about working with teams with a shared Git project.
 Use branches to manage a coherent and organized workflow.
 
-This is the base project for the [Core-GitHub-3-Branching-and-Team-Workflows class](https://github.com/Product-College-Courses/Core-GitHub-3-Branching-and-Team-Workflows/tree/master).
-
+This is the starter project for the [Core session on Git branching](https://github.com/Product-College-Courses/Core-Git-Branching).

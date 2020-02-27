@@ -1,6 +1,9 @@
-# Core: Git Branching Lab
+# Git Team Workflow Lab
 
-A lab activity to learn about working with teams with a shared Git project.
-Use branches to manage a coherent and organized workflow.
+A lab activity to learn how to manage a coherent and organized workflow on
+collaborative team projects with a shared Git repository.
 
-This is the starter project for the [Core session on Git branching](https://github.com/Product-College-Courses/Core-Git-Branching).
+Fork and clone this starter repository,
+then carefully follow the instructions in the
+[Git Team Workflow](https://make-school-courses.github.io/Git-Team-Workflow/)
+tutorial step by step.

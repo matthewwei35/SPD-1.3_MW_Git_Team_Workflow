@@ -27,7 +27,7 @@ The end.
 
 ## Cast
 
-* Young Boy: Eliel
+* Young Boy: Dan
 * Unicorn King: Alan
-* Zookeeper: Braus
-* Friendly Koala: Mike
+* Friendly Koala: Adriana
+* Janitor: Mitchell

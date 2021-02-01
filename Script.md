@@ -23,6 +23,7 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 Matthew met the Unicorn King who granted him magic powers.
+The janitor also got magical powers.
 The end.
 
 ## Cast

@@ -25,6 +25,8 @@ He took a tentative step through the door and followed the stone path overgrown 
 Matthew met the Unicorn King who granted him magic powers.
 The end.
 
+But not really, Aliens invaded Earth and the Unicorn King has to fight them off.
+
 ## Cast
 
 * Young Boy: Dan
